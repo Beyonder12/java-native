@@ -5,7 +5,7 @@ import java.util.logging.Logger;
 
 public class Main {
 
-    private static final String DIR = "C:\\Users\\IFG Life\\Documents\\Github\\fajri\\java-native\\src\\fileio\\myNewFile.txt";
+    private static final String DIR = "C:\\Users\\IFG Life\\Documents\\Github\\fajri\\java-native\\src\\fileio\\";
 
     private static final Logger log = Logger.getLogger("Main");
 
